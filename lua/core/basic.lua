@@ -42,3 +42,6 @@ opt.autoread = true
 opt.ignorecase = true
 opt.smartcase = true
 opt.hlsearch = false
+
+-- 禁用lualine自带样式
+opt.showmode = false
